@@ -1,7 +1,7 @@
-streamlit
-pandas
-scikit-learn
-xgboost
-catboost
-lightgbm
-numpy
+streamlit==1.46.1
+pandas==2.2.2
+scikit-learn==1.5.2
+xgboost==3.0.2
+lightgbm==4.6.0
+numpy==2.1.0
+catboost==1.2.8
